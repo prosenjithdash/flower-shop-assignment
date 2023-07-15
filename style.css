@@ -45,9 +45,217 @@ font-family: 'Open Sans', sans-serif;
     height: 800px;
     padding: 50px 100px 0 0;
 }
-.header-flower-img-flex{
-    
-}
+
 .let-flex{
    padding: 197px 97px 0 180px;
+}
+.title1-name{
+    margin: 178px 0px 0px 0px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.title1-des{
+    margin: 24px 663px 48px 663px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    text-align: center;
+}
+
+/*01-Flower-Stock*/
+
+
+.flower-stock{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 10px 240px 10px 240px;
+}
+.pink-flower1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+.p1img{
+    width: 310px;
+    height: 428px;
+    padding: 110px 77px 0 77px;
+}
+.p1name{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+}
+
+
+/*02-Flower-Stock*/
+
+
+
+.pink-flower2{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    
+
+}
+.p2img{
+    width: 310px;
+    height: 428px;
+    padding: 110px 77px 0 77px;
+}
+.p2name{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+}
+/*03-Flower-Stock*/
+.pink-flower3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+.p3img{
+    width: 310px;
+    height: 428px;
+    padding: 110px 77px 0 77px;
+}
+.p3name{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px; /* 145.833% */
+    text-decoration-line: underline;
+}
+
+/* Section 02 why buy flower in this website*/
+.why-buy{
+ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+    
+
+
+
+}
+.section-02{
+    margin: 195px 240px 0px 240px;
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    
+
+}
+
+.title-01  {
+  
+    padding: 86px 356px 24px 317px;
+
+    
+}
+.title-02{
+   
+    padding: 86px 271px 24px 0px;
+
+}
+.title-03{
+   
+    padding: 86px 232px 24px 0px;
+
+}
+.title-01-des{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    
+    padding: 0px 100px 87px 50px;
+}
+.title-02-des{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 0px 100px 87px 0px;
+
+
+}
+.title-03-des{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 0px 175px 87px 50px;
+
+
+}
+.section-03{
+    margin-top: 128px;
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+
+}
+.hot-deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 230px 215px 0 423px;
+}
+.discount{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.hot-deal-des{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    padding: 5px 186px 5px 395px;
+}
+.hot-deal{
+    text-align: center;
+    
+}
+.sec-02-btn{
+    padding: 0px 417px 162px 603px;
+}
+.hot-d-img{
+    width: 318px;
+    height: 420px;
+    padding: 100px 429px 100px 0;
+}
+.off{
+color: #E55473;
+font-size: 40px;
+font-weight: 800;
 }
