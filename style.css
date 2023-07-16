@@ -149,10 +149,11 @@ font-family: 'Open Sans', sans-serif;
 
 /* Section 02 why buy flower in this website*/
 .why-buy{
- 
+    height: 320px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+   
   
     
 
@@ -165,60 +166,25 @@ font-family: 'Open Sans', sans-serif;
     height: 320px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    
-
 }
 
-.title-01  {
-  
-    padding: 86px 356px 24px 317px;
 
-    
-}
-.title-02{
-   
-    padding: 86px 271px 24px 0px;
-
-}
-.title-03{
-   
-    padding: 86px 232px 24px 0px;
-
-}
-.title-01-des{
+.title-01-des, .title-02-des, .title-03-des{
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
+    font-family: Lato;
     font-size: 24px;
+    font-style: normal;
     font-weight: 600;
-    
-    padding: 0px 100px 87px 50px;
+    line-height: 35px; /* 145.833% */
 }
-.title-02-des{
-    color: rgba(39, 39, 39, 0.80);
-    text-align: center;
-    font-size: 24px;
-    font-weight: 600;
-    padding: 0px 100px 87px 0px;
 
-
-}
-.title-03-des{
-    color: rgba(39, 39, 39, 0.80);
-    text-align: center;
-    font-size: 24px;
-    font-weight: 600;
-    padding: 0px 175px 87px 50px;
-
-
-}
 .section-03{
     margin-top: 128px;
     width: 1922px;
     height: 620px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-
-
 }
 .hot-deal-title{
     color: #272727;
@@ -229,10 +195,7 @@ font-family: 'Open Sans', sans-serif;
 .discount{
     display: flex;
     justify-content: space-around;
-    
 }
-
-
 .hot-deal-des{
     width: 594px;
     color: rgba(39, 39, 39, 0.60);
@@ -294,11 +257,8 @@ font-weight: 800;
     width: 1440px;
     height: 449px;
     border-radius: 8px;
-    background-color: #f3d7d7;
+    background-image: url(Rectangle\ 9.png);
 
-}
-.form-b-img{
-    
 }
 .form-title{
     padding: 115px 534px 3px 533px;
@@ -331,14 +291,14 @@ font-weight: 800;
     border: none;
 }
 .bg{
-    background-image: url(form_img.jpg);
+    
+    background-image: url(r);
 }
 
 .shop{
     color: #FFF;
     font-size: 48px;
     font-weight: 800;
-
 }
 
 footer{
