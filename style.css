@@ -259,3 +259,117 @@ color: #E55473;
 font-size: 40px;
 font-weight: 800;
 }
+.instagram{
+    text-align: center;
+}
+.ins-title{
+    margin-top: 128px ;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.ins-des{
+    margin-top: 24px;
+    margin-bottom: 48px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+
+}
+.instagram-img{
+    margin: 48px 240px 128px 240px;
+    display: flex;
+    gap: 24px;
+   
+}
+.ins-img-01, .ins-img-02, .ins-img-03, .ins-img-04{
+    width: 342px;
+    height: 396px;
+}
+.section-05{
+    
+}
+.form-b-img{
+    margin: 0px 240px 128px 240px;
+}
+.form-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.form-des{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+
+
+}
+.form-flex{
+    display: flex;
+    gap: 10px;
+
+}
+.form-part{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #161212;
+}
+.enter-email{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
+.bg{
+    background-image: url(Flower\ Asset/);
+}
+footer{
+    margin-top: 128px;
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+}
+.footer-title{
+
+
+
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+
+
+   
+
+}
+.shop{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+.footer-des{
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.copy-right{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+.footer-section{
+    
+}
